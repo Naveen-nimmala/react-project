@@ -1,0 +1,25 @@
+.home-data {
+  margin: auto;
+  width: 60%;
+  /* border: 3px solid #73ad21; */
+  padding: 10px;
+}
+
+a {
+  color: #337ab7;
+  text-decoration: none;
+}
+
+.home-content {
+  font-size: 20px;
+  color: white;
+}
+
+.date-time {
+  color: gray;
+  margin-bottom: 15px;
+}
+
+.home-title {
+  margin-top: 5px;
+}
